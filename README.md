@@ -1,4 +1,9 @@
-# React Alice Carousel
+# React Alice Carousel Sensitivity Fix
+
+This is a fork of https://github.com/maxmarinich/react-alice-carousel
+
+This fork hopes to reduce the touch sensitivity for horizontal sliding.
+
 [![npm version](https://badge.fury.io/js/react-alice-carousel.svg)](https://badge.fury.io/js/react-alice-carousel)
 [![Build Status](https://travis-ci.com/maxmarinich/react-alice-carousel.svg?branch=master)](https://travis-ci.com/maxmarinich/react-alice-carousel)
 
